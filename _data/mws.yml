@@ -171,3 +171,23 @@
   author_location: Antibes, France
   author_avatar: https://avatars0.githubusercontent.com/u/3286929
   
+- name: Restaurant Review App
+  banner: https://imgur.com/a/ZEWBbaf
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/jagarmarten/mws-restaurants-stage3
+  description: |
+    Restaurant reviews is a progressive web application which people can use when they want to read the current ratings and reviews for a specific restaurant or they can even add their own!
+    The main feature of this application are it's offline-first capabilities - the user is able to interact with the website even when he's offline or has a weak internet connection.
+    
+  author: Martin Kozon
+  author_avatar: https://avatars3.githubusercontent.com/u/13108400?s=460&v=4
+  author_location: Dolny Kubin, Slovakia
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/martinkozon/
+    - title: Github
+      icon: github
+      url: https://github.com/jagarmarten
